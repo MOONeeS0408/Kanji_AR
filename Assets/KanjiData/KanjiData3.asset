@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde25d36d2b306a4d8e1217716dc7ad7, type: 3}
+  m_Name: KanjiData3
+  m_EditorClassIdentifier: 
+  pictograma: {fileID: 0}
+  kanji: "\u4F75"
+  significado: unirse, juntarse
+  descripcion: "Persona \u2E85 a lo largo de una fila de personas \u5E76"
+  kunyomi: "\u3042\u308F.\u305B\u308B"
+  kunyomiRomaji: awaseru
+  onyomi: "\u30D8\u30A4"
+  onyomiRomaji: hei
+  audioClip: {fileID: 8300000, guid: b3320f184b5700445b1e0a0dbe198f89, type: 3}

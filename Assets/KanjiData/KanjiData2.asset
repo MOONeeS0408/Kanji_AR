@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde25d36d2b306a4d8e1217716dc7ad7, type: 3}
+  m_Name: KanjiData2
+  m_EditorClassIdentifier: 
+  pictograma: {fileID: 0}
+  kanji: "\u4E26"
+  significado: fila, alinearse
+  descripcion: Dos personas paradas, lado a lado, formando una linea
+  kunyomi: "\u306A.\u307F\u3001  \u306A\u3089.\u3079\u308B\u3001 \u306A\u3089.\u3076\u3001
+    \u306A\u3089.\u3073\u306B"
+  kunyomiRomaji: nami, naraberu, narabu, narabini
+  onyomi: "\u30D8\u30A4\u3001 \u30DB\u30A6"
+  onyomiRomaji: hei
+  audioClip: {fileID: 8300000, guid: ac2700fd185efd2408cacf031639adc7, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde25d36d2b306a4d8e1217716dc7ad7, type: 3}
+  m_Name: KanjiData5
+  m_EditorClassIdentifier: 
+  pictograma: {fileID: 0}
+  kanji: "\u5316"
+  significado: cambiar, transformar
+  descripcion: "Persona del frente \u2E85 que ha dado la espalda \u5315, por lo que
+    su estancia se ha transformado"
+  kunyomi: "\u3070.\u3051\u308B"
+  kunyomiRomaji: 'bakeru '
+  onyomi: "\u30AB\u3001 \u30B1"
+  onyomiRomaji: ka, ke
+  audioClip: {fileID: 8300000, guid: 1f05b6017cb6b724bbdbcc2a21373f5d, type: 3}
