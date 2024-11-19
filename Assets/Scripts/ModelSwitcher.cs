@@ -5,7 +5,7 @@ public class ModelSwitcher : MonoBehaviour
 {
     public GameObject model1; // Primer modelo 3D
     public GameObject model2; // Segundo modelo 3D
-    public float switchInterval = 5f; // Intervalo de tiempo en segundos
+    public float switchInterval = 3f; // Intervalo de tiempo en segundos
 
     private IEnumerator switchCoroutine; // Corrutina de alternancia
     private bool isTracking = false; // Indica si el ImageTarget está siendo detectado
